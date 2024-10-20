@@ -11,7 +11,7 @@ start_txt = """**
  
  ➲ ʙsᴅᴋ ʀᴇᴘᴏ ʟᴇɢᴀ ◉‿◉ ✰
  
- ➲ ᴘᴇʜʟᴇ ᴜᴛᴛᴀᴍ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ ✰
+ ➲ ᴘᴇʜʟᴇ ᴢᴀʏɴ ᴋᴏ ᴘᴀᴘᴀ ʙᴏʟ ✰
  
  ➲ ᴄʜᴜᴘ ᴄʜᴜᴘ ʙᴏᴛ ʟᴇᴋᴇ ɴɪᴋᴀʟ ✰
  
@@ -32,31 +32,31 @@ async def start(_, msg):
           InlineKeyboardButton("•ᴀᴅᴅ ᴍᴇ•", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+j6FO8pK8IIkxZDU1"),
-          InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/UTTAM470"),
+          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+boRw-4Ar4ag2ZjM1"),
+          InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/lll_Oye_Zayn_lll"),
           ],
                [
-                InlineKeyboardButton("•ᴜᴘᴅᴀᴛᴇs•", url="https://t.me/BABY09_WORLD"),
+                InlineKeyboardButton("•ᴜᴘᴅᴀᴛᴇs•", url="https://t.me/ll_Bot_Promotion_ll"),
 
 ],
 [
-              InlineKeyboardButton("•ʙᴀɴᴀʟʟ•", url=f"https://t.me/SATYABANALL_ROBOT"),
-              InlineKeyboardButton("︎•ʏᴛ-ᴍᴜsɪᴄ•", url=f"https://t.me/YOUTUBE_RROBOT"),
+              InlineKeyboardButton("•ʙᴀɴᴀʟʟ•", url=f"https://t.me/S"),
+              InlineKeyboardButton("︎•ʏᴛ-ᴍᴜsɪᴄ•", url=f"https://t.me"),
               ],
               [
-              InlineKeyboardButton("•ᴅᴇᴇᴘ ᴍᴜsɪᴄ•", url=f"https://t.me/DEEP_MUSIC_ROBOT"),
-InlineKeyboardButton("•ᴄʜᴀᴛ ʙᴏᴛ•", url=f"https://t.me/RADHIKA_CHAT_RROBOT"),
+              InlineKeyboardButton("•ᴅᴇᴇᴘ ᴍᴜsɪᴄ•", url=f"https://t.me/"),
+InlineKeyboardButton("•ᴄʜᴀᴛ ʙᴏᴛ•", url=f"https://t.me"),
 ],
 [
 InlineKeyboardButton("•sᴛʀɪɴɢ-ɢᴇɴ•", url=f"https://t.me/STRING_BABYGEN_BOT"),
 InlineKeyboardButton("•ᴍᴀɴᴀɢᴍᴇɴᴛ•", url=f"https://t.me/SATYA_HELP97_BOT"),
 ],
 [
-              InlineKeyboardButton("•sᴘᴀᴍ-ʙᴏᴛ•", url=f"https://t.me/SATYASPAMROBOT"),
-              InlineKeyboardButton("•ᴀᴘɴᴀ-ᴍᴜsɪᴄ•︎", url=f"https://t.me/MUSIC_OO_ROBOT"),
+              InlineKeyboardButton("•sᴘᴀᴍ-ʙᴏᴛ•", url=f"https://t.me/S"),
+              InlineKeyboardButton("•ꜱᴜᴋᴏᴏɴ-ᴍᴜꜱɪᴄ•︎", url=f"https://t.me/Sukoonn_X_music_bot"),
               ],
               [
-              InlineKeyboardButton("•sᴛʀɪɴɢ ʜᴀᴄᴋ•", url=f"https://t.me/BABYSTRINGROBOT"),
+              InlineKeyboardButton("•sᴛʀɪɴɢ ʜᴀᴄᴋ•", url=f"http"),
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -85,7 +85,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[•ʙᴏᴛ-ᴏᴡɴᴇʀ•](https://t.me/UTTAM470) | [•ᴜᴘᴅᴀᴛᴇs•](https://t.me/BABY09_WORLD)
+        text = f"""[•ʙᴏᴛ-ᴏᴡɴᴇʀ•](https://t.me/ll_Oye_Zayn_ll) | [•ᴜᴘᴅᴀᴛᴇs•](https://t.me/ll_Bot_Promotion_ll)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
